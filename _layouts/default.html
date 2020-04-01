@@ -20,13 +20,26 @@
           <img class="w3-round" src="{{site.profile | relative_url}}" alt="Profile" />
         {% endif %}
 
-        <p>{{ site.description }}</p>
+        <!--<p>{{ site.description }}</p>-->
+
+        {% if site.linkedin %}
+        <a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+        {% endif %}
+        
+        {% if site.google_scholar %}
+        <a href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i>&nbsp; G. Scholar</a>
+        {% endif %}
+        
+        {% if site.github %}
+        <a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="fa fa-github-square"></i> Github</a>
+        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
       </header>
+
       <section>
 
       {{ content }}
