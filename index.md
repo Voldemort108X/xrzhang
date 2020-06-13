@@ -18,6 +18,37 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * I will apply to Ph.D. programs in Fall 2021. Please feel free to contact me if you are interested. Thanks.
 * **[04/20]** I am constructing my personal website! 
 
+<style type="text/css">
+	table, th, td {
+	  border: 0px solid black;
+	}
+	table.pub_table {
+		width: 100%;
+		font-size: 12pt;
+	}
+	td.pub_td1 {
+		width: 33%;
+	}
+	td.pub_td2 {
+		width: 67%;
+	}
+</style>
+
+<body>
+<div class='section_div' id="papers">
+
+<h2>Publications</h2>
+
+<table class="pub_table">
+<!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="http://xiaoranzhang.com/"><img class="teaser_img" src="/assets/img/selfie.jpg"/></a></div></td>
+	<td class="pub_td2"><b>A test file</b><br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020<br>
+
+</td></tr>
+
+
+
 ## Publications
 ### Journal
 ### Conference
