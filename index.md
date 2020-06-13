@@ -19,9 +19,6 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * **[04/20]** I am constructing my personal website! 
 
 <style type="text/css">
-	table, th, td {
-	  
-	}
 	table.pub_table {
 		width: 100%;
 		font-size: 12pt;
