@@ -15,6 +15,7 @@ You can contact me via [email](mailto:xiaoran108@ucla.edu). My CV is available a
 My research mainly focuses on developing deep learning-based techniques for biomedical imaging including registration and segmentation. I am also keen on exploring control and optimization problems on biomedical applications.
 
 ## News
+* I will apply to Ph.D. programs in Fall 2021. Please feel free to contact me if you are interested. Thanks.
 * **[04/20]** I am constructing my personal website! 
 
 ## Publications
