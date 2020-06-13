@@ -34,9 +34,15 @@ My research mainly focuses on developing deep learning-based techniques for biom
 	}
 </style>
 
+
+
 <body>
 <div class='section_div' id="papers">
+<tr class="bordered"></tr>
 
+tr.bordered {
+    border-bottom: 1px solid #000;
+}
 <h2>Publications</h2>
 
 <table class="pub_table">
@@ -62,7 +68,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="/assets/file/IEEE_BIBM_slides.pdf">Slides</a>
     </td>
-    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 </tr>
 
 <tr>
