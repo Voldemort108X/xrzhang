@@ -20,7 +20,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <style type="text/css">
 	table, th, td {
-	  border-bottom: 0px solid black;
+	  
 	}
 	table.pub_table {
 		width: 100%;
@@ -28,7 +28,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
     }
 	td.pub_td1 {
         width: 33%;
-        style="border-right: 2px dashed;"
+        border-bottom: 1px solid black;
 	}
 	td.pub_td2 {
 		width: 67%;
@@ -52,14 +52,12 @@ My research mainly focuses on developing deep learning-based techniques for biom
 	<td class="pub_td1"><div class="Spinal_div"><img class="Spinal_img" src="/assets/img/Spinal_seg_2020.png"/></div></td>
 	<td class="pub_td2"><b>Automatic Spinal Cord Segmentation from Axial-view MRI Slices Using CNN with Grayscale Regularized Active Contour Propagation</b><br>Xiaoran Zhang, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi<br><i>Biomedical Signal Processing and Control</i> 2020. Submitted.</td>
 </tr>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <tr>
 	<td class="pub_td1"><div class="ISIE_div"><img class="ISIE_img" src="/assets/img/ISIE_2019.png"/></div></td>
 	<td class="pub_td2"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b><br>Xiaoran Zhang, Wan Zhang, Yongtong Cao, Dawei Shi, Ling Shi<br><i>2019 IEEE 28th International Symposium on Industrial Electronics (ISIE)</i> 2019.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8781401">Paper</a> | <a href="/assets/file/IEEE_ISIE_slides.pdf">Slides</a>
     </td>
 </tr>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <tr>
 	<td class="pub_td1"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
 	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
