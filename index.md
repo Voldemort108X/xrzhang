@@ -52,19 +52,19 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <tr>
 	<td class="pub_td1"><div class="ISIE_div"><img class="ISIE_img" src="/assets/img/ISIE_2019.png"/></div></td>
 	<td class="pub_td2"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b><br>Xiaoran Zhang, Wan Zhang, Yongtong Cao, Dawei Shi, Ling Shi<br><i>2019 IEEE 28th International Symposium on Industrial Electronics (ISIE)</i> 2019.
-    <br><a href="https://ieeexplore.ieee.org/abstract/document/8781401">Paper</a> | <a src="/assets/file/IEEE_ISIE_slides.pdf">Slides</a>
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8781401">Paper</a> | <a href="/assets/file/IEEE_ISIE_slides.pdf">Slides</a>
     </td>
 </tr>
 <tr>
 	<td class="pub_td1"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
 	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep ConvolutionalNeural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
-    <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part1">Slides</a>
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="/assets/file/IEEE_BIBM_slides.pdf">Slides</a>
     </td>
 </tr>
 <tr>
-	<td class="pub_td1"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS.png"/></div></td>
+	<td class="pub_td1"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS_2018.png"/></div></td>
 	<td class="pub_td2"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b><br>Xiaoran Zhang, Yuting Bai, Senchun Chai<br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
-    <br><a href="https://ieeexplore.ieee.org/abstract/document/8663875">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part1">Slides</a>
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8663875">Paper</a>
     </td>
 </tr>
 </table>
