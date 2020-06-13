@@ -52,11 +52,13 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
 <tr>
 	<td class="pub_td1_l"><div class="LA_div"><img class="LA_img" src="/assets/img/LA_seg_2020.png"/></div></td>
-	<td class="pub_td2_l"><b>Fully Automated Left Atrium Segmentation from Anatomical Cine Long-axis MRI Sequences using Deep Convolutional Neural Network with Unscented Kalman Filter</b><br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020. Under review.</td>
+	<td class="pub_td2_l"><b>Fully Automated Left Atrium Segmentation from Anatomical Cine Long-axis MRI Sequences using Deep Convolutional Neural Network with Unscented Kalman Filter</b>
+    <br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020. Under review.</td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="Spinal_div"><img class="Spinal_img" src="/assets/img/Spinal_seg_2020.png"/></div></td>
-	<td class="pub_td2_l"><b>Automatic Spinal Cord Segmentation from Axial-view MRI Slices Using CNN with Grayscale Regularized Active Contour Propagation</b><br>Xiaoran Zhang, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi<br><i>Biomedical Signal Processing and Control</i> 2020. Submitted.</td>
+	<td class="pub_td2_l"><b>Automatic Spinal Cord Segmentation from Axial-view MRI Slices Using CNN with Grayscale Regularized Active Contour Propagation</b>
+    <br>Xiaoran Zhang, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi<br><i>Biomedical Signal Processing and Control</i> 2020. Submitted.</td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="ISIE_div"><img class="ISIE_img" src="/assets/img/ISIE_2019.png"/></div></td>
@@ -66,7 +68,8 @@ My research mainly focuses on developing deep learning-based techniques for biom
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
-	<td class="pub_td2_l"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
+	<td class="pub_td2_l"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b>
+    <br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="/assets/file/IEEE_BIBM_slides.pdf">Slides</a>
     </td>
 
@@ -84,23 +87,25 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <table class="pub_table">
 <tr>
 	<td class="pub_td1_l"><div class="239ASRL"><img class="239ASRL_img" src="/assets/img/239ASRL.png"/></div></td>
-	<td class="pub_td2_l"><b>An Empirical Study of Deep Q-Learning Algorithms</b><br>Aditya Golatkar, Albert Zhao, Cagatay Isil, Xiaoran Zhang<br><i>UCLA EE 239AS Reinforcement Learning by Prof. Lin F. Yang</i> in 2020 Spring.
-    <br><a href="/assets/file/239ASRL_poster.pdf">Poster | <a href="/assets/file/239ASRL_slides.pdf">Slides</a></td>
+	<td class="pub_td2_l"><b>An Empirical Study of Deep Q-Learning Algorithms</b><br>Aditya Golatkar, Albert Zhao, Cagatay Isil, Xiaoran Zhang
+    <br><i>UCLA EE 239AS Reinforcement Learning by Prof. Lin F. Yang</i> in 2020 Spring.
+    <br><a href="/assets/file/239ASRL_poster.pdf">Poster | <a href="/assets/file/239ASRL_slides.pdf">Slides</a>
+    </td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="236C"><img class="236C" src="/assets/img/236C.png"/></div></td>
 	<td class="pub_td2_l"><b>Convex Optimization for Non-rigid Image Registration</b><br>Xiaoran Zhang<br><i>UCLA EE 236C Large Scale Optimization by Prof. Lieven Vandenberghe</i> in 2020 Spring.
-    <br><a href="/assets/file/236C.pdf">Paper</a></td>
+    <br><a href="/assets/file/236C.pdf">Report</a></td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="C247"><img class="C247" src="/assets/img/C247.png"/></div></td>
 	<td class="pub_td2_l"><b>How to design a good classifier for EEG temporal data using CNNs and RNNs</b><br>Xiaoran Zhang, Hexiang Dong<br><i>UCLA EE C247 Neural Networks and Deep Learning by Prof. Jonathan Kao</i> in 2020 Winter.
-    <br><a href="/assets/file/C247.pdf">Paper</a></td>
+    <br><a href="/assets/file/C247.pdf">Report</a></td>
 </tr>
 <tr>
-	<td class="pub_td1_l"><div class="239AS"><img class="239AS_img" src="/assets/img/239AS.png"/></div></td>
-	<td class="pub_td2_l"><b>A Comparative Study for Non-rigid Image Registration and Rigid Image Registration</b><br>Xiaoran Zhang, Hexiang Dong, Di Gao, Xiao Zhao<br><i>UCLA EE 239AS Computational Imaging by Prof. Achuta Kadambi</i> in 2019 Fall.
-    <br><a href="https://arxiv.org/pdf/2001.03831.pdf">Paper</a></td>
+	<td class="pub_td1_nl"><div class="239AS"><img class="239AS_img" src="/assets/img/239AS.png"/></div></td>
+	<td class="pub_td2_nl"><b>A Comparative Study for Non-rigid Image Registration and Rigid Image Registration</b><br>Xiaoran Zhang, Hexiang Dong, Di Gao, Xiao Zhao<br><i>UCLA EE 239AS Computational Imaging by Prof. Achuta Kadambi</i> in 2019 Fall.
+    <br><a href="https://arxiv.org/pdf/2001.03831.pdf">Report</a></td>
 </tr>
 
 </table>
