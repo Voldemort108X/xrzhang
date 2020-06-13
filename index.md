@@ -46,7 +46,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 	<td class="pub_td2"><b>A test file</b><br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020<br>
 
 </td></tr>
-
+</table>
 
 
 ## Publications
