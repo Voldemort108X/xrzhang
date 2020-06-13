@@ -20,7 +20,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <style type="text/css">
 	table, th, td {
-	  border: 1px solid black;
+	  border-bottom: 1px solid black;
 	}
 	table.pub_table {
 		width: 100%;
@@ -38,11 +38,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <body>
 <div class='section_div' id="papers">
-<tr class="bordered"></tr>
 
-tr.bordered {
-    border-bottom: 1px solid #000;
-}
 <h2>Publications</h2>
 
 <table class="pub_table">
