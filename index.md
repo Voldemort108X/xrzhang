@@ -20,12 +20,12 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <style type="text/css">
 	table, th, td {
-	  border-bottom: 1px solid black;
+	  border-bottom: 0px solid black;
 	}
 	table.pub_table {
 		width: 100%;
 		font-size: 12pt;
-	}
+    }
 	td.pub_td1 {
 		width: 33%;
 	}
@@ -69,7 +69,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <tr>
 	<td class="pub_td1"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS_2018.png"/></div></td>
-	<td class="pub_td2"><b>State Estimation for GPS Outage Based on Improved Nonlinear Autoregressive Model</b><br>Xiaoran Zhang, Yuting Bai, Senchun Chai<br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
+	<td class="pub_td2",style="border-right: 2px dashed;"><b>State Estimation for GPS Outage Based on Improved Nonlinear Autoregressive Model</b><br>Xiaoran Zhang, Yuting Bai, Senchun Chai<br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8663875">Paper</a>
     </td>
 </tr>
