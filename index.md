@@ -17,7 +17,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 ## News
 * **[04/20]** I am constructing my personal website! 
 
-## Selected Publication
+## Publications
 ### Journal
 ### Conference
 ### Technical report
