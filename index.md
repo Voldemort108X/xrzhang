@@ -59,11 +59,12 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <tr>
 	<td class="pub_td1"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
-	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep ConvolutionalNeural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
+	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="/assets/file/IEEE_BIBM_slides.pdf">Slides</a>
     </td>
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 </tr>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <tr>
 	<td class="pub_td1"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS_2018.png"/></div></td>
 	<td class="pub_td2"><b>State Estimation for GPS Outage Based on Improved Nonlinear Autoregressive Model</b><br>Xiaoran Zhang, Yuting Bai, Senchun Chai<br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
