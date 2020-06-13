@@ -42,21 +42,37 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <table class="pub_table">
 <!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
 <tr>
-	<td class="pub_td1"><div class="media_image_div"><img class="teaser_img" src="/assets/img/MEDIA_2020.png"/></div></td>
-	<td class="pub_td2"><b>A test file</b><br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020. Under review.<br></td>
+	<td class="pub_td1"><div class="LA_div"><img class="LA_img" src="/assets/img/LA_seg_2020.png"/></div></td>
+	<td class="pub_td2"><b>Fully Automated Left Atrium Segmentation from Anatomical Cine Long-axis MRI Sequences using Deep Convolutional Neural Network with Unscented Kalman Filter</b><br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar<br><i>Medical Image Analysis</i> 2020. Under review.</td>
 </tr>
-
-
+<tr>
+	<td class="pub_td1"><div class="Spinal_div"><img class="Spinal_img" src="/assets/img/Spinal_seg_2020.png"/></div></td>
+	<td class="pub_td2"><b>Automatic Spinal Cord Segmentation from Axial-view MRI Slices Using CNN with Grayscale Regularized Active Contour Propagation</b><br>Xiaoran Zhang, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi<br><i>Biomedical Signal Processing and Control</i> 2020. Submitted.</td>
+</tr>
+<tr>
+	<td class="pub_td1"><div class="ISIE_div"><img class="ISIE_img" src="/assets/img/ISIE_2019.png"/></div></td>
+	<td class="pub_td2"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b><br>Xiaoran Zhang, Wan Zhang, Yongtong Cao, Dawei Shi, Ling Shi<br><i>2019 IEEE 28th International Symposium on Industrial Electronics (ISIE)</i> 2019.
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8781401">Paper</a> | <a src="/assets/file/IEEE_ISIE_slides.pdf">Slides</a>
+    </td>
+</tr>
+<tr>
+	<td class="pub_td1"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
+	<td class="pub_td2"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep ConvolutionalNeural Network and Unscented Kalman Filter</b><br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar<br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part1">Slides</a>
+    </td>
+</tr>
+<tr>
+	<td class="pub_td1"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS.png"/></div></td>
+	<td class="pub_td2"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b><br>Xiaoran Zhang, Yuting Bai, Senchun Chai<br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
+    <br><a href="https://ieeexplore.ieee.org/abstract/document/8663875">Paper</a> | <a href="https://github.com/clintonjwang/voi-classifier/tree/part1">Slides</a>
+    </td>
+</tr>
 </table>
 
+<h2>Technical Reports</h2>
 
+</body>
 
-
-## Publications
-### Journal
-### Conference
-
-### Technical report
 
 ## Awards
 
