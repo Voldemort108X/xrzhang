@@ -20,7 +20,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 <style type="text/css">
 	table, th, td {
-	  border: 0px solid black;
+	  border: 1px solid black;
 	}
 	table.pub_table {
 		width: 100%;
