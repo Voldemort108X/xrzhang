@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -27,7 +28,7 @@
           {% endif %}
 
           {% if site.google_scholar %}
-          <br><a href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social inline_social_icon" target="_blank"><i class="ai ai-google-scholar-square"></i>&nbsp; Google Scholar</a>
+          <br><a href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social inline_social_icon" target="_blank"><i class="ai ai-google-scholar-square"></i> Google Scholar</a>
           {% endif %}
           
           {% if site.github %}
