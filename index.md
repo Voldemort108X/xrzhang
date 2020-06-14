@@ -53,20 +53,20 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <tr>
 	<td class="pub_td1_l"><div class="LA_div"><img class="LA_img" src="/assets/img/LA_seg_2020.png"/></div></td>
 	<td class="pub_td2_l"><b>Fully Automated Left Atrium Segmentation from Anatomical Cine Long-axis MRI Sequences using Deep Convolutional Neural Network with Unscented Kalman Filter</b>
-    <br>Xiaoran Zhang, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar
+    <br><b>Xiaoran Zhang</b>, Michelle Noga, David Glynn Martin, Kumaradevan Punithakumar
     <br><i>Medical Image Analysis</i> 2020. Under review.
     </td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="Spinal_div"><img class="Spinal_img" src="/assets/img/Spinal_seg_2020.png"/></div></td>
 	<td class="pub_td2_l"><b>Automatic Spinal Cord Segmentation from Axial-view MRI Slices Using CNN with Grayscale Regularized Active Contour Propagation</b>
-    <br>Xiaoran Zhang, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi
+    <br><b>Xiaoran Zhang</b>, Yan Li, Yicun Liu, Shu-Xia Tang, Xiaoguang Liu, Kumaradevan Punithakumar, Dawei Shi
     <br><i>Biomedical Signal Processing and Control</i> 2020. Submitted.</td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="ISIE_div"><img class="ISIE_img" src="/assets/img/ISIE_2019.png"/></div></td>
 	<td class="pub_td2_l"><b>Optimal Continuous Glucose Monitoring Sensor Calibration for Patients with Type 1 Diabetes</b>
-    <br>Xiaoran Zhang, Wan Zhang, Yongtong Cao, Dawei Shi, Ling Shi
+    <br><b>Xiaoran Zhang</b>, Wan Zhang, Yongtong Cao, Dawei Shi, Ling Shi
     <br><i>2019 IEEE 28th International Symposium on Industrial Electronics (ISIE)</i> 2019.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8781401">Paper</a> | <a href="/assets/file/IEEE_ISIE_slides.pdf">Slides</a>
     </td>
@@ -74,7 +74,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <tr>
 	<td class="pub_td1_l"><div class="BIBM_div"><img class="BIBM_img" src="/assets/img/BIBM_2018.png"/></div></td>
 	<td class="pub_td2_l"><b>Fully Automated Left Atrial Segmentation from MR Image Sequences Using Deep Convolutional Neural Network and Unscented Kalman Filter</b>
-    <br>Xiaoran Zhang, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar
+    <br><b>Xiaoran Zhang</b>, David Glynn Martin, Michelle Noga, Kumaradevan Punithakumar
     <br><i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8621570">Paper</a> | <a href="/assets/file/IEEE_BIBM_slides.pdf">Slides</a>
     </td>
@@ -84,7 +84,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <tr>
 	<td class="pub_td1_nl"><div class="ICSESS_div"><img class="ICSESS_img" src="/assets/img/ICSESS_2018.png"/></div></td>
 	<td class="pub_td2_nl"><b>State Estimation for GPS Outage Based on Improved Nonlinear Autoregressive Model</b>
-    <br>Xiaoran Zhang, Yuting Bai, Senchun Chai
+    <br><b>Xiaoran Zhang</b>, Yuting Bai, Senchun Chai
     <br><i>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</i>.
     <br><a href="https://ieeexplore.ieee.org/abstract/document/8663875">Paper</a>
     </td>
@@ -126,23 +126,20 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 
 ## Awards
-*  Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
-<!--
-<h2>Awards</h2>
-<br> Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
-<br> Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
-<br> Excellent Graduation Thesis, BIT
-<br> Special Award for Outstanding Innovation, Ministry of Industry and Information Technology of China
-<br> Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), Mitacs
-<br> Diwen Scholarship (1/36), BIT
-<br> Meritorious Winner in ICM/MCM (8.88%), COMAP
-<br> National Scholarship (1/36), the Ministry of Education of the People's Republic of China
-<br> Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission
-<br> 1st Class Scholarship (1/36), BIT
+* Xute Li Special Fellowship (highest honor for undergrad, 9/all undergraduates), by BIT
+* Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
+* Excellent Graduation Thesis, by BIT
+* Special Award for Outstanding Innovation, by Ministry of Industry and Information Technology of China 
+* Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), by Mitacs in 2018 [Media](https://www.mitacs.ca/en/newsroom/news-release/bionic-ears-brain-injury-blood-tests-annual-awards-recognize-innovators) [Video](https://www.youtube.com/watch?v=Y9NvVB49qQI&feature=youtu.be)
+* Diwen Scholarship (1/36), by BIT in 2018
+* Meritorious Winner in ICM/MCM (8.88%), by COMAP in 2018
+* National Scholarship (1/36), by the Ministry of Education of the People's Republic of China in 2016
+* Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission in 2016
+* Three times 1st Class Scholarship (1/36), by BIT in 2015 and 2016
 
-<h2>Miscellaneous</h2>
-Check out my performance in 2015 at BIT singer competition at <a href ="https://v.qq.com/x/page/r0176jnu5zp.html" >[here]</a>.
--->
+## Miscellaneous
+* I am a music lover, a sports enthusiast. I love swimming, playing the piano, volleyball and table tennis.
+* Check out my performance back in 2015 at BIT singer's competition at [here](https://v.qq.com/x/page/r0176jnu5zp.html)
 
 
 
