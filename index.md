@@ -134,7 +134,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * Diwen Scholarship (1/36), by BIT in 2018
 * Meritorious Winner in ICM/MCM (8.88%), by COMAP in 2018
 * National Scholarship (1/36), by the Ministry of Education of the People's Republic of China in 2016
-* Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission in 2016
+* Beijing Triple 'A' Outstanding Student Award (1/320), by Beijing Municipal Education Commission in 2016
 * Three times 1st Class Scholarship (1/36), by BIT in 2015 and 2016
 
 ## Miscellaneous
