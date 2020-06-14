@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 ### Xiaoran Zhang 张笑然
 
 I am a first year master student in Electrical Computer Engineering at University of California, Los Angeles. I am currently working as a volunteer research assistant at [The Ozcan Research Group](https://innovate.ee.ucla.edu/) lead by Prof. [Aydogan Ozcan](https://www.ee.ucla.edu/aydogan-ozcan/). I work closely with Prof. [Yair Rivenson](https://www.ee.ucla.edu/yair%20rivenson/). I obtained my B.Eng. degree with the highest honor (_President Xu Teli's Special Fellowship_) from School of Automation, [Beijing Institute of Technology](http://www.bit.edu.cn/) supervised by Prof. [Dawei Shi](http://www.escience.cn/people/dshi/index.html;jsessionid=5E27F4F80FFD767E21F2D439C6C9ADAB-n1). I was fortunate to be a Mitacs-CSC visiting student in [Servier Virtual Cardiac Centre](http://spaces.facsci.ualberta.ca/svcc) at University of Alberta in summer 2018, supervised by Prof. [Kumaradevan Punithakumar](https://sites.ualberta.ca/~punithak/) and Prof. [Michelle Noga](https://spaces.facsci.ualberta.ca/svcc/team/).
@@ -11,10 +11,11 @@ I am a first year master student in Electrical Computer Engineering at Universit
 You can contact me via [email](mailto:xiaoran108@ucla.edu). My CV is available at [[here]](./assets/file/Xiaoran Zhang CV-2-paged - (Latest).pdf).
 
 ## Research Interest
-
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 My research mainly focuses on developing deep learning-based techniques for biomedical imaging including registration and segmentation. I am also keen on exploring control and optimization problems on biomedical applications.
 
 ## News
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * I will apply to Ph.D. programs in Fall 2021. Please feel free to contact me if you are interested. Thanks.
 * **[04/20]** I am constructing my personal website! 
 
@@ -47,7 +48,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <div class='section_div' id="papers">
 
 <h2>Publications</h2>
-
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <table class="pub_table">
 <!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
 <tr>
@@ -92,6 +93,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 </table>
 
 <h2>Technical Reports</h2>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <table class="pub_table">
 <tr>
 	<td class="pub_td1_l"><div class="239ASRL"><img class="239ASRL_img" src="/assets/img/239ASRL.png"/></div></td>
@@ -126,6 +128,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 
 ## Awards
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * Xute Li Special Fellowship (highest honor for undergrad, 9/all undergraduates), by BIT
 * Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
 * Excellent Graduation Thesis, by BIT
@@ -138,6 +141,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * Three times 1st Class Scholarship (1/36), by BIT in 2015 and 2016
 
 ## Miscellaneous
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * I am a music lover, a sports enthusiast. I love swimming, playing the piano, volleyball and table tennis.
 * Check out my performance back in 2015 at BIT singer's competition at [[here]](https://v.qq.com/x/page/r0176jnu5zp.html)
 
