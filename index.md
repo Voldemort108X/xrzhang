@@ -83,6 +83,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 </tr>
 </table>
 
+<div class='section_div' id="reports">
 <h2>Technical Reports</h2>
 <table class="pub_table">
 <tr>
@@ -107,12 +108,11 @@ My research mainly focuses on developing deep learning-based techniques for biom
 	<td class="pub_td2_nl"><b>A Comparative Study for Non-rigid Image Registration and Rigid Image Registration</b><br>Xiaoran Zhang, Hexiang Dong, Di Gao, Xiao Zhao<br><i>UCLA EE 239AS Computational Imaging by Prof. Achuta Kadambi</i> in 2019 Fall.
     <br><a href="https://arxiv.org/pdf/2001.03831.pdf">Report</a></td>
 </tr>
-
 </table>
-
 </body>
 
 
 ## Awards
+
 
 ## Miscellaneous
