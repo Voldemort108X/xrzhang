@@ -89,23 +89,23 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <tr>
 	<td class="pub_td1_l"><div class="239ASRL"><img class="239ASRL_img" src="/assets/img/239ASRL.png"/></div></td>
 	<td class="pub_td2_l"><b>An Empirical Study of Deep Q-Learning Algorithms</b><br>Aditya Golatkar, Albert Zhao, Cagatay Isil, Xiaoran Zhang
-    <br><i>UCLA EE 239AS Reinforcement Learning by Prof. Lin F. Yang</i> in 2020 Spring.
+    <br><i>UCLA EE 239AS Reinforcement Learning by Prof. Lin F. Yang</i> in Spring 2020.
     <br><a href="/assets/file/239ASRL_poster.pdf">Poster | <a href="/assets/file/239ASRL_slides.pdf">Slides</a>
     </td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="236C"><img class="236C" src="/assets/img/236C.png"/></div></td>
-	<td class="pub_td2_l"><b>Convex Optimization for Non-rigid Image Registration</b><br>Xiaoran Zhang<br><i>UCLA EE 236C Large Scale Optimization by Prof. Lieven Vandenberghe</i> in 2020 Spring.
+	<td class="pub_td2_l"><b>Convex Optimization for Non-rigid Image Registration</b><br>Xiaoran Zhang<br><i>UCLA EE 236C Large Scale Optimization by Prof. Lieven Vandenberghe</i> in Spring 2020.
     <br><a href="/assets/file/236C.pdf">Report</a></td>
 </tr>
 <tr>
 	<td class="pub_td1_l"><div class="C247"><img class="C247" src="/assets/img/C247.png"/></div></td>
-	<td class="pub_td2_l"><b>How to design a good classifier for EEG temporal data using CNNs and RNNs</b><br>Xiaoran Zhang, Hexiang Dong<br><i>UCLA EE C247 Neural Networks and Deep Learning by Prof. Jonathan Kao</i> in 2020 Winter.
+	<td class="pub_td2_l"><b>How to design a good classifier for EEG temporal data using CNNs and RNNs</b><br>Xiaoran Zhang, Hexiang Dong<br><i>UCLA EE C247 Neural Networks and Deep Learning by Prof. Jonathan Kao</i> in Winter 2020.
     <br><a href="/assets/file/C247.pdf">Report</a></td>
 </tr>
 <tr>
 	<td class="pub_td1_nl"><div class="239AS"><img class="239AS_img" src="/assets/img/239AS.png"/></div></td>
-	<td class="pub_td2_nl"><b>A Comparative Study for Non-rigid Image Registration and Rigid Image Registration</b><br>Xiaoran Zhang, Hexiang Dong, Di Gao, Xiao Zhao<br><i>UCLA EE 239AS Computational Imaging by Prof. Achuta Kadambi</i> in 2019 Fall.
+	<td class="pub_td2_nl"><b>A Comparative Study for Non-rigid Image Registration and Rigid Image Registration</b><br>Xiaoran Zhang, Hexiang Dong, Di Gao, Xiao Zhao<br><i>UCLA EE 239AS Computational Imaging by Prof. Achuta Kadambi</i> in Fall 2019.
     <br><a href="https://arxiv.org/pdf/2001.03831.pdf">Report</a></td>
 </tr>
 </table>
