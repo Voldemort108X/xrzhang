@@ -110,19 +110,19 @@ My research mainly focuses on developing deep learning-based techniques for biom
 </table>
 
 <h2>Awards</h2>
-* Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
-* Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
-* Excellent Graduation Thesis, BIT
-* Special Award for Outstanding Innovation, Ministry of Industry and Information Technology of China
-* Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), Mitacs
-* Diwen Scholarship (1/36), BIT
-* Meritorious Winner in ICM/MCM (8.88%), COMAP
-* National Scholarship (1/36), the Ministry of Education of the People's Republic of China
-* Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission
-* 1st Class Scholarship (1/36), BIT
+<br> Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
+<br> Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
+<br> Excellent Graduation Thesis, BIT
+<br> Special Award for Outstanding Innovation, Ministry of Industry and Information Technology of China
+<br> Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), Mitacs
+<br> Diwen Scholarship (1/36), BIT
+<br> Meritorious Winner in ICM/MCM (8.88%), COMAP
+<br> National Scholarship (1/36), the Ministry of Education of the People's Republic of China
+<br> Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission
+<br> 1st Class Scholarship (1/36), BIT
 
 <h2>Miscellaneous</h2>
-* Check out my performance in 2015 at BIT singer competition at [here](https://v.qq.com/x/page/r0176jnu5zp.html).
+Check out my performance in 2015 at BIT singer competition at <a href ="https://v.qq.com/x/page/r0176jnu5zp.html" >[here]</a>.
 
 </body>
 
