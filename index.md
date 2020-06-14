@@ -109,10 +109,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 </tr>
 </table>
 
-</body>
-
-
-## Awards
+<h2>Awards</h2>
 * Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
 * Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
 * Excellent Graduation Thesis, BIT
@@ -124,5 +121,9 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * Beijing Triple 'A' Outstanding Student Award (1/320) by Beijing Municipal Education Commission
 * 1st Class Scholarship (1/36), BIT
 
-## Miscellaneous
+<h2>Miscellaneous</h2>
 * Check out my performance in 2015 at BIT singer competition at [here](https://v.qq.com/x/page/r0176jnu5zp.html).
+
+</body>
+
+
