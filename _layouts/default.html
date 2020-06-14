@@ -25,16 +25,18 @@
         <!--<p>{{ site.description }}</p>-->
         <div id="social_icons">
           {% if site.linkedin %}
-          <a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social inline_social_icon" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-linkedin"></i>&nbsp; LinkedIn</a>
+          <a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social inline_social_icon" target="_blank" style="color:black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i class="fab fa-linkedin"></i>&nbsp; LinkedIn</a>
           {% endif %}
 
           {% if site.google_scholar %}
-          <br><a href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social inline_social_icon" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <br><a href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social inline_social_icon" target="_blank " style="color:black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <i class="ai ai-google-scholar-square"></i>&nbsp; Google Scholar</a>
           {% endif %}
           
           {% if site.github %}
-          <br><a href="http://github.com/{{ site.owner.github }}" class="author-social inline_social_icon" target="_blank" style="color:black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-github"></i>&nbsp; Github</a>
+          <br><a href="http://github.com/{{ site.owner.github }}" class="author-social inline_social_icon" target="_blank" style="color:black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i class="fab fa-github"></i>&nbsp; Github</a>
 
           {% endif %}
 
