@@ -108,6 +108,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
     <br><a href="https://arxiv.org/pdf/2001.03831.pdf">Report</a></td>
 </tr>
 </table>
+</div>
 
 <h2>Awards</h2>
 <br> Xute Li Special Fellowship (9/all undergraduates) by BIT, (highest honor for student in BIT)
