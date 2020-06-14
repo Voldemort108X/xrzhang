@@ -21,7 +21,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 <style type="text/css">
 	table.pub_table {
 		width: 100%;
-		font-size: 12pt;
+		font-size: 10pt;
     }
 	td.pub_td1_nl {
         width: 33%;
@@ -130,7 +130,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 * Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
 * Excellent Graduation Thesis, by BIT
 * Special Award for Outstanding Innovation, by Ministry of Industry and Information Technology of China 
-* Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), by Mitacs in 2018 [Media](https://www.mitacs.ca/en/newsroom/news-release/bionic-ears-brain-injury-blood-tests-annual-awards-recognize-innovators) [Video](https://www.youtube.com/watch?v=Y9NvVB49qQI&feature=youtu.be)
+* Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), by Mitacs in 2018 [[Media]](https://www.mitacs.ca/en/newsroom/news-release/bionic-ears-brain-injury-blood-tests-annual-awards-recognize-innovators) [[Video]](https://www.youtube.com/watch?v=Y9NvVB49qQI&feature=youtu.be)
 * Diwen Scholarship (1/36), by BIT in 2018
 * Meritorious Winner in ICM/MCM (8.88%), by COMAP in 2018
 * National Scholarship (1/36), by the Ministry of Education of the People's Republic of China in 2016
@@ -139,7 +139,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 ## Miscellaneous
 * I am a music lover, a sports enthusiast. I love swimming, playing the piano, volleyball and table tennis.
-* Check out my performance back in 2015 at BIT singer's competition at [here](https://v.qq.com/x/page/r0176jnu5zp.html)
+* Check out my performance back in 2015 at BIT singer's competition at [[here]](https://v.qq.com/x/page/r0176jnu5zp.html)
 
 
 
