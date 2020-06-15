@@ -9,7 +9,7 @@ layout: default
 
 I am a first year master student in Electrical Computer Engineering at University of California, Los Angeles. I am currently working as a volunteer research assistant at [The Ozcan Research Group](https://innovate.ee.ucla.edu/) lead by Prof. [Aydogan Ozcan](https://www.ee.ucla.edu/aydogan-ozcan/). I work closely with Prof. [Yair Rivenson](https://www.ee.ucla.edu/yair%20rivenson/). I obtained my B.Eng. degree with the highest honor (_President Xu Teli's Special Fellowship_) from School of Automation, [Beijing Institute of Technology](http://www.bit.edu.cn/) supervised by Prof. [Dawei Shi](http://www.escience.cn/people/dshi/index.html;jsessionid=5E27F4F80FFD767E21F2D439C6C9ADAB-n1). I was fortunate to be a Mitacs-CSC visiting student in [Servier Virtual Cardiac Centre](http://spaces.facsci.ualberta.ca/svcc) at University of Alberta in summer 2018, supervised by Prof. [Kumaradevan Punithakumar](https://sites.ualberta.ca/~punithak/) and Prof. [Michelle Noga](https://spaces.facsci.ualberta.ca/svcc/team/).
 
-You can contact me via [email](mailto:xiaoran108@ucla.edu). My CV is available at [[here]](./assets/file/Xiaoran Zhang CV-2-paged - (Latest).pdf).
+My email is xiaoran[at]ucla.edu
 
 ## Research Interest
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -130,10 +130,10 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 ## Awards
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* Xute Li Special Fellowship (highest honor for undergrad, 9/all undergraduates), by BIT
-* Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission
-* Excellent Graduation Thesis, by BIT
-* Special Award for Outstanding Innovation, by Ministry of Industry and Information Technology of China 
+* Xute Li Special Fellowship (highest honor for undergrad, 9/all undergraduates), by BIT in 2019
+* Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission in 2019
+* Excellent Graduation Thesis, by BIT in 2019 
+* Special Award for Outstanding Innovation, by Ministry of Industry and Information Technology of China in 2018
 * Mitacs Award for Outstanding Innovation-Undergraduate (1/all Mitacs interns), by Mitacs in 2018 [[Media]](https://www.mitacs.ca/en/newsroom/news-release/bionic-ears-brain-injury-blood-tests-annual-awards-recognize-innovators) [[Video]](https://www.youtube.com/watch?v=Y9NvVB49qQI&feature=youtu.be)
 * Diwen Scholarship (1/36), by BIT in 2018
 * Meritorious Winner in ICM/MCM (8.88%), by COMAP in 2018
