@@ -13,11 +13,11 @@ My email is xiaoran108[at]ucla.edu
 
 ## Research Interest
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-My research mainly focuses on developing deep learning-based techniques for biomedical imaging including registration and segmentation. I am also keen on exploring control and optimization problems on biomedical applications.
+My current research mainly focuses on developing deep learning-based techniques for biomedical imaging including registration and segmentation. I am also keen on exploring optimization and computer vision problems and open to new fields.
 
 ## News
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* I will apply to Ph.D. programs in Fall 2021. Please feel free to contact me if you are interested. Thanks.
+* I will apply to Ph.D. programs in Fall 2021. Please feel free to drop me an email if you have anything you want to discuss with me.
 * **[04/20]** I am constructing my personal website! 
 
 <style type="text/css">
@@ -130,7 +130,7 @@ My research mainly focuses on developing deep learning-based techniques for biom
 
 ## Awards
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* Xute Li Special Fellowship (highest honor for undergrad, 9/all undergraduates), by BIT in 2019
+* Xu Teli Special Fellowship (highest honor for undergrad, 9/all undergrads), by BIT in 2019
 * Graduate with 1st Class Honor, by BIT and Beijing Municipal Education Commission in 2019
 * Excellent Graduation Thesis, by BIT in 2019 
 * Special Award for Outstanding Innovation, by Ministry of Industry and Information Technology of China in 2018
