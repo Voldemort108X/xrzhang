@@ -43,11 +43,6 @@ My current research mainly focuses on developing deep learning-based techniques 
     }
 </style>
 
-<style>
-h2 { 
-  font-size: 34px;
-}
-</style>
 
 <body>
 <div class='section_div' id="papers">
