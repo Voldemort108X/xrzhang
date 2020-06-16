@@ -17,7 +17,7 @@ My current research mainly focuses on developing deep learning-based techniques 
 
 ## News
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* I will apply to Ph.D. programs in Fall 2021. Please feel free to drop me an email if you have anything you want to discuss with me.
+* I will apply to Ph.D. programs in Fall 2021. Please feel free to drop an email if you have anything you want to discuss.
 * **[04/20]** I am constructing my personal website! 
 
 <style type="text/css">
