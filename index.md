@@ -48,7 +48,7 @@ My current research mainly focuses on developing deep learning-based techniques 
 <body>
 <div class='section_div' id="papers">
 
-<h2>Publications</h2>
+<h2 font-size=28px;>Publications</h2>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <table class="pub_table">
 <!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
